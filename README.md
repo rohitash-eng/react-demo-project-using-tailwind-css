@@ -13,10 +13,6 @@ This is a **React Demo Project using Tailwind CSS**. I have created a small proj
 
 ![Project Screen](https://raw.githubusercontent.com/rohitash-eng/react-demo-project-using-tailwind-css/refs/heads/main/public/Screenshot%202025-10-27%20at%205.15.28%E2%80%AFPM.png)
 
-![Project Screen](https://raw.githubusercontent.com/rohitash-eng/react-demo-project-using-tailwind-css/refs/heads/main/public/Screenshot%202025-10-27%20at%205.15.28%E2%80%AFPM.png)
-
-![Project Screen](https://raw.githubusercontent.com/rohitash-eng/react-demo-project-using-tailwind-css/refs/heads/main/public/Screenshot%202025-10-27%20at%205.15.28%E2%80%AFPM.png)
-
 -----
 
 ## 🚀 Getting Started
