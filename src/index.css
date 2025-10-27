@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.nav-bar{
+    @apply px-[24px] py-[12px] hover:bg-gray-200 hover:text-black cursor-pointer
+}
+.common-box-shadow{
+    @apply shadow-lg rounded-lg
+}
+.input-box{
+    @apply p-3 flex border w-full border-gray-400
+}
