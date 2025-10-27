@@ -1,10 +1,11 @@
 # React Demo Project using Tailwind CSS
 
-This is a small demo project built with React and Tailwind CSS. It serves as a hands-on guide to understanding and using various Tailwind utility classes, from basic setup to more advanced concepts like `group-hover` and `@apply`.
+This is a **React Demo Project using Tailwind CSS**. I have created a small project that utilizes various Tailwind utility classes, helping you learn Tailwind CSS easily through hands-on practice. It serves as a hands-on guide to understanding and using various Tailwind utility classes, from basic setup to more advanced concepts like group-hover and @apply.
 
 -----
 
-## 🖼️ Project Preview
+## 🖼️ First review project screenshot
+![Project Screen](https://your-image-url.com/screenshot.png)
 
 -----
 
@@ -14,14 +15,14 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-You need to have [Node.js](https://nodejs.org/) (which includes npm) installed on your computer.
+You need to have [Node.js] [npm] [npx] [vscode](https://nodejs.org/) (which includes npm) installed on your computer.
 
 ### Installation
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/react-demo-project-using-tailwind-css.git
+    git clone https://github.com/rohitash-eng/react-demo-project-using-tailwind-css.git
     ```
 
 2.  **Navigate to the project directory:**
